@@ -1,4 +1,4 @@
-# jonmatum/matum-shell
+# Get started
 
 ## Run
 ```
